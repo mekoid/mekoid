@@ -17,9 +17,3 @@ I'm currently learning:
 - C++
 
 I am beginner programmer
-
-
-
-
-![mekoid github stats](https://github-readme-stats.vercel.app/api?username=mekoid&layout=compact&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mekoid&count_private=true&show_icons=true&theme=radical)
