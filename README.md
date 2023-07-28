@@ -11,9 +11,4 @@
 <p align='center'>I live in Tulungagung, Indonesia</p>
 
 
-I'm currently learning:
-- Javascript
-- Python
-- C++
-
-I am beginner programmer
+I am beginner CyeOps
